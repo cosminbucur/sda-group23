@@ -1,0 +1,11 @@
+# custom properties
+appOwner: company
+releaseVersion: 1.0
+
+# spring properties
+logging:
+  file: spring-boot/log/app.log
+  level:
+    root: INFO
+    org.springframework.web: DEBUG
+    com.sda.spring.boot: INFO
