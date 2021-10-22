@@ -32,11 +32,16 @@
         <!-- parent-boot-2 -->
         <module>parent-boot-2</module>
         <module>spring-boot</module>
+
+        <!-- web -->
         <module>spring-thymeleaf</module>
+        <module>spring-boot-rest</module>
+        <module>testing-advanced</module>
+
+        <!-- security -->
         <module>spring-security-memory</module>
         <module>spring-security-jpa-mysql</module>
         <module>spring-security-thymeleaf</module>
-        <module>spring-boot-rest</module>
 
     </modules>
 
